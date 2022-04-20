@@ -1,0 +1,7 @@
+C:\Users\Иван\Desktop\Уник\КУРСАЧ ЯП\CourseWork\CourseWork\Debug\CourseWork.exe
+C:\Users\Иван\Desktop\Уник\КУРСАЧ ЯП\CourseWork\CourseWork\Debug\CourseWork.MainForm.resources
+C:\Users\Иван\Desktop\Уник\КУРСАЧ ЯП\CourseWork\CourseWork\Debug\CourseWork.vcxproj.GenerateResource.cache
+C:\Users\Иван\Desktop\Уник\КУРСАЧ ЯП\CourseWork\CourseWork\Debug\CourseWork.SetingsForm.resources
+C:\Users\Иван\Desktop\Уник\КУРСАЧ ЯП\CourseWork\CourseWork\Debug\CourseWork.LevelsForm.resources
+C:\Users\Иван\Desktop\Уник\КУРСАЧ ЯП\CourseWork\CourseWork\Debug\CourseWork.vcxproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\Уник\КУРСАЧ ЯП\CourseWork\CourseWork\Debug\CourseWork.InfoForm.resources
